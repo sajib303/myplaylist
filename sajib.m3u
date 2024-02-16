@@ -7,8 +7,9 @@ http://172.22.22.102/s1d4/index.php?dir=Hindi%20Movies/Dunki.2023.1080p.NF.WEB-D
 #EXTINF:2,Example artist - Example title
 http://172.22.22.102/s1d4/index.php?dir=Hindi%20Movies/Animal.2023.1080p.NF.WEB-DL.DDP5.1.H.264-Telly/&file=Animal.2023.1080p.NF.WEB-DL.DDP5.1.H.264-Telly.mkv
 
-
-
+#EXTM3U
+#EXTINF:3,Example artist - Example title
+http://172.22.22.102/s1d4/index.php?dir=Hindi%20Movies/Kho.Gaye.Hum.Kahan.2023.1080p.NF.WEB-DL.DDP5.1.Atmos.H.264-Telly/&file=Kho.Gaye.Hum.Kahan.2023.1080p.NF.WEB-DL.DDP5.1.Atmos.H.264-Telly.mkv
 
 
 
