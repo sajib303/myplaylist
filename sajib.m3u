@@ -17,18 +17,18 @@ http://172.22.22.102/s1d4/index.php?dir=Hindi%20Movies/Kho.Gaye.Hum.Kahan.2023.1
 
 
 
-#EXTINF:4, group-title="Anime", tvg-file="Attack On Titan", tvg-id="season 01" , Attack On Titan ep-1
+#EXTINF:4, group-title="Anime" tvg-chno="Attack On Titan" tvg-id="season 01" , Attack On Titan ep-01
 http://data103.mazedanetworks.net/ftpdata/anime2/index.php?dir=Attack%20on%20Titan%20%5BComplete%5D%20/S01/&file=%5BCleo%5DShingeki_No_Kyojin_-_01_%28Dual%20Audio_10bit_BD720p_x265%29.mkv
 
-#EXTINF:4, group-title="Anime", tvg-file="Attack On Titan", tvg-id="season 01" , Attack On Titan ep-2
+#EXTINF:4, group-title="Anime" tvg-chno="Attack On Titan" tvg-id="season 01" , Attack On Titan ep-02
 http://data103.mazedanetworks.net/ftpdata/anime2/index.php?dir=Attack%20on%20Titan%20%5BComplete%5D%20/S01/&file=%5BCleo%5DShingeki_No_Kyojin_-_02_%28Dual%20Audio_10bit_BD720p_x265%29.mkv
 
-#EXTINF:4, group-title="Anime", tvg-chno="Attack On Titan", tvg-id="season 01" , Attack On Titan ep-3
+#EXTINF:4, group-title="Anime", tvg-chno="Attack On Titan", tvg-id="season 01" , Attack On Titan ep-03
 http://data103.mazedanetworks.net/ftpdata/anime2/index.php?dir=Attack%20on%20Titan%20%5BComplete%5D%20/S01/&file=%5BCleo%5DShingeki_No_Kyojin_-_03_%28Dual%20Audio_10bit_BD720p_x265%29.mkv
 
-#EXTINF:4, group-title="Anime", tvg-chno="Attack On Titan", tvg-id="season 01" , Attack On Titan ep-4
+#EXTINF:4, group-title="Anime", tvg-chno="Attack On Titan", tvg-id="season 01" , Attack On Titan ep-04
 http://data103.mazedanetworks.net/ftpdata/anime2/index.php?dir=Attack%20on%20Titan%20%5BComplete%5D%20/S01/&file=%5BCleo%5DShingeki_No_Kyojin_-_04_%28Dual%20Audio_10bit_BD720p_x265%29.mkv
 
-#EXTINF:4, group-title="Anime", tvg-chno="Attack On Titan", tvg-id="season 01" , Attack On Titan ep-5
+#EXTINF:4, group-title="Anime", tvg-chno="Attack On Titan", tvg-id="season 01" , Attack On Titan ep-05
 http://data103.mazedanetworks.net/ftpdata/anime2/index.php?dir=Attack%20on%20Titan%20%5BComplete%5D%20/S01/&file=%5BCleo%5DShingeki_No_Kyojin_-_05_%28Dual%20Audio_10bit_BD720p_x265%29.mkv
 
