@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:1,https://upload.wikimedia.org/wikipedia/en/4/4f/Dunki_poster.jpg - Dunki (2023)
+#EXTINF:1,tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Dunki_poster.jpg", Dunki (2023)
 http://172.22.22.102/s1d4/index.php?dir=Hindi%20Movies/Dunki.2023.1080p.NF.WEB-DL.DDP5.1.H.264-Telly/&file=Dunki.2023.1080p.NF.WEB-DL.DDP5.1.H.264-Telly.mkv
 
 
 #EXTM3U
-#EXTINF:2,https://upload.wikimedia.org/wikipedia/en/9/90/Animal_%282023_film%29_poster.jpg - Animal (2023)
+#EXTINF:2,tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Animal_%282023_film%29_poster.jpg", Animal (2023)
 http://172.22.22.102/s1d4/index.php?dir=Hindi%20Movies/Animal.2023.1080p.NF.WEB-DL.DDP5.1.H.264-Telly/&file=Animal.2023.1080p.NF.WEB-DL.DDP5.1.H.264-Telly.mkv
 
 
 #EXTM3U
-#EXTINF:3,https://upload.wikimedia.org/wikipedia/en/8/8b/Kho_Gaye_Hum_Kahan_film_poster.jpg - Kho Gaye Hum Kahan (2023)
+#EXTINF:3,tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8b/Kho_Gaye_Hum_Kahan_film_poster.jpg", Kho Gaye Hum Kahan (2023)
 http://172.22.22.102/s1d4/index.php?dir=Hindi%20Movies/Kho.Gaye.Hum.Kahan.2023.1080p.NF.WEB-DL.DDP5.1.Atmos.H.264-Telly/&file=Kho.Gaye.Hum.Kahan.2023.1080p.NF.WEB-DL.DDP5.1.Atmos.H.264-Telly.mkv
 
 
