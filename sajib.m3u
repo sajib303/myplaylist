@@ -2,22 +2,20 @@
 #EXTINF:1,group-title="Hindi Movies",tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Dunki_poster.jpg", Dunki (2023)
 http://172.22.22.102/s1d4/index.php?dir=Hindi%20Movies/Dunki.2023.1080p.NF.WEB-DL.DDP5.1.H.264-Telly/&file=Dunki.2023.1080p.NF.WEB-DL.DDP5.1.H.264-Telly.mkv
 
-
-
 #EXTINF:2,group-title="Hindi Movies",tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Animal_%282023_film%29_poster.jpg", Animal (2023)
 http://172.22.22.102/s1d4/index.php?dir=Hindi%20Movies/Animal.2023.1080p.NF.WEB-DL.DDP5.1.H.264-Telly/&file=Animal.2023.1080p.NF.WEB-DL.DDP5.1.H.264-Telly.mkv
-
-
 
 #EXTINF:3,group-title="Hindi Movies",tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8b/Kho_Gaye_Hum_Kahan_film_poster.jpg", Kho Gaye Hum Kahan (2023)
 http://172.22.22.102/s1d4/index.php?dir=Hindi%20Movies/Kho.Gaye.Hum.Kahan.2023.1080p.NF.WEB-DL.DDP5.1.Atmos.H.264-Telly/&file=Kho.Gaye.Hum.Kahan.2023.1080p.NF.WEB-DL.DDP5.1.Atmos.H.264-Telly.mkv
 
+#EXTINF:3,group-title="Hindi Movies",tvg-logo="http://172.22.22.102/s1d4/index.php?dir=Hindi%20Movies/Salaar.Part.1.Ceasefire.2023.Hindi.1080p.WEB-DL.DDP5.1.H.264-Telly/&file=l.jpg",Salaar-Part 1 Ceasefire (2023)
+http://172.22.22.102/s1d4/index.php?dir=Hindi%20Movies/Salaar.Part.1.Ceasefire.2023.Hindi.1080p.WEB-DL.DDP5.1.H.264-Telly/&file=Salaar.Part.1.Ceasefire.2023.Hindi.1080p.WEB-DL.DDP5.1.H.264-Telly.mkv
 
 
 
 
 
-#EXTINF:4, group-title="Anime",tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.rottentomatoes.com%2Ftv%2Fattack_on_titan%2Fs01&psig=AOvVaw0wUHp8IMDi8Cag1swhsS4V&ust=1708177158878000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNDiz_n9r4QDFQAAAAAdAAAAABAE" , Attack On Titan s-01 ep-01
+#EXTINF:4, group-title="Anime",tvg-logo="https://static.wikia.nocookie.net/shingekinokyojin/images/d/d8/Attack_on_Titan_Season_1.jpg/revision/latest?cb=20211005182832" , Attack On Titan s-01 ep-01
 http://data103.mazedanetworks.net/ftpdata/anime2/index.php?dir=Attack%20on%20Titan%20%5BComplete%5D%20/S01/&file=%5BCleo%5DShingeki_No_Kyojin_-_01_%28Dual%20Audio_10bit_BD720p_x265%29.mkv
 
 #EXTINF:4, group-title="Anime" ,tvg-logo="https://static.wikia.nocookie.net/shingekinokyojin/images/d/d8/Attack_on_Titan_Season_1.jpg/revision/latest?cb=20211005182832" ,  Attack On Titan s-01 ep-02
