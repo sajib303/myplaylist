@@ -27,7 +27,8 @@ http://data102.mazedanetworks.net/s1d4/index.php?dir=Tamil%20Movies/Bramayugam%2
 #EXTINF:4,group-title="Hindi Dubbed Movies",tvg-logo="http://data105.mazedanetworks.net/ftpdata/Movies/Bluray-2023/index.php?dir=English%20Movie/Drama/Oppenheimer%20%282023%29%20%5B1080p%5D/&file=Oppenheimer%20%282023%29%20%5B1080p%5D.jpg", Oppenheimer (2023)
 http://data105.mazedanetworks.net/ftpdata/Dual_Audio_Movies/index.php?dir=&file=Oppenheimer%202023%20BluRay%20IMAX%201080p%20Hindi%20English%20DD%205.1%20x264%20ESub%20-%20mkvCinemas.mkv
 
-
+#EXTINF:1,group-title="Hindi Dubbed Movies",tvg-logo="http://data105.mazedanetworks.net/ftpdata/Movies/Bluray-2023/index.php?dir=English%20Movie/Drama/Napoleon%20%282023%29%20%5B1080p%5D/&file=Napoleon%20%282023%29%20%5B1080p%5D.jpg", Napoleon (2023)
+http://data105.mazedanetworks.net/ftpdata/Dual_Audio_Movies/index.php?dir=&file=Napoleon%202023%20WebRip%201080p%20Hindi%20English%20DD%205.1%20x264%20MSubs%20-%20mkvCinemas.mkv
 
 #EXTM3U
 #EXTINF:4, group-title="Anime",tvg-logo="https://static.wikia.nocookie.net/shingekinokyojin/images/d/d8/Attack_on_Titan_Season_1.jpg/revision/latest?cb=20211005182832" , Attack On Titan s-01 ep-01
