@@ -8,14 +8,28 @@ http://172.22.22.102/s1d4/index.php?dir=Hindi%20Movies/Animal.2023.1080p.NF.WEB-
 #EXTINF:3,group-title="Hindi Movies",tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8b/Kho_Gaye_Hum_Kahan_film_poster.jpg", Kho Gaye Hum Kahan (2023)
 http://172.22.22.102/s1d4/index.php?dir=Hindi%20Movies/Kho.Gaye.Hum.Kahan.2023.1080p.NF.WEB-DL.DDP5.1.Atmos.H.264-Telly/&file=Kho.Gaye.Hum.Kahan.2023.1080p.NF.WEB-DL.DDP5.1.Atmos.H.264-Telly.mkv
 
-#EXTINF:3,group-title="Hindi Movies",tvg-logo="http://172.22.22.102/s1d4/index.php?dir=Hindi%20Movies/Salaar.Part.1.Ceasefire.2023.Hindi.1080p.WEB-DL.DDP5.1.H.264-Telly/&file=l.jpg",Salaar-Part 1 Ceasefire (2023)
+#EXTINF:4,group-title="Hindi Movies",tvg-logo="http://172.22.22.102/s1d4/index.php?dir=Hindi%20Movies/Salaar.Part.1.Ceasefire.2023.Hindi.1080p.WEB-DL.DDP5.1.H.264-Telly/&file=l.jpg",Salaar-Part 1 Ceasefire (2023)
 http://172.22.22.102/s1d4/index.php?dir=Hindi%20Movies/Salaar.Part.1.Ceasefire.2023.Hindi.1080p.WEB-DL.DDP5.1.H.264-Telly/&file=Salaar.Part.1.Ceasefire.2023.Hindi.1080p.WEB-DL.DDP5.1.H.264-Telly.mkv
 
 
 
 
 #EXTM3U
+#EXTINF:1,group-title="Hindi Dubbed Movies",tvg-logo="http://data105.mazedanetworks.net/ftpdata/Movies/Bluray-2021/index.php?dir=English%20Movie/Action/Dune%20%282021%29%20%5B1080p%5D/&file=Dune%20%282021%29%20%5B1080p%5D.jpg", Dune (2021)
+http://data105.mazedanetworks.net/ftpdata/Dual_Audio_Movies/index.php?dir=&file=Dune%202021%20BluRay%201080p%20Hindi%20English%20BD%205.1%20x264%20ESub%20-%20mkvCinemas.mkv
 
+#EXTINF:2,group-title="Hindi Movies",tvg-logo="http://data106.mazedanetworks.net/ftpdata6/Foreign_Movies/index.php?dir=Korean%20Movies/Train%20to%20Busan%20%282016%20%29%20BluRay/&file=download.jpg", Train to Busan (2016)
+http://data105.mazedanetworks.net/ftpdata/Dual_Audio_Movies/index.php?dir=&file=Train%20to%20Busan%202016%20BluRay%201080p%20Hindi%20English%20AC3%205.1%20x264%20ESub%20-%20mkvCinemas.mkv
+
+#EXTINF:3,group-title="Hindi Movies",tvg-logo="http://data102.mazedanetworks.net/s1d4/index.php?dir=Tamil%20Movies/Bramayugam%20%282024%29%20%5B1080p%5D%20%5BDual%20Audio%5D/&file=Bramayugam%20%282024%29%20%5B1080p%5D%20%5BDual%20Audio%5D.jpg", Bramayugam (2024)
+http://data102.mazedanetworks.net/s1d4/index.php?dir=Tamil%20Movies/Bramayugam%20%282024%29%20%5B1080p%5D%20%5BDual%20Audio%5D/&file=Bramayugam%20%282024%29%20%5B1080p%5D%20%5BDual%20Audio%5D.mkv
+
+#EXTINF:4,group-title="Hindi Movies",tvg-logo="http://data105.mazedanetworks.net/ftpdata/Movies/Bluray-2023/index.php?dir=English%20Movie/Drama/Oppenheimer%20%282023%29%20%5B1080p%5D/&file=Oppenheimer%20%282023%29%20%5B1080p%5D.jpg", Oppenheimer (2023)
+http://data105.mazedanetworks.net/ftpdata/Dual_Audio_Movies/index.php?dir=&file=Oppenheimer%202023%20BluRay%20IMAX%201080p%20Hindi%20English%20DD%205.1%20x264%20ESub%20-%20mkvCinemas.mkv
+
+
+
+#EXTM3U
 #EXTINF:4, group-title="Anime",tvg-logo="https://static.wikia.nocookie.net/shingekinokyojin/images/d/d8/Attack_on_Titan_Season_1.jpg/revision/latest?cb=20211005182832" , Attack On Titan s-01 ep-01
 http://data103.mazedanetworks.net/ftpdata/anime2/index.php?dir=Attack%20on%20Titan%20%5BComplete%5D%20/S01/&file=%5BCleo%5DShingeki_No_Kyojin_-_01_%28Dual%20Audio_10bit_BD720p_x265%29.mkv
 
