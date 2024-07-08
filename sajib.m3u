@@ -35,6 +35,16 @@ http://data105.mazedanetworks.net/ftpdata/Dual_Audio_Movies/index.php?dir=&file=
 #EXTINF:6,group-title="Hindi Dubbed Movies",tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f2/TobyFilm.jpeg", Toby (2023)
 http://data105.mazedanetworks.net/ftpdata/Dual_Audio_Movies/index.php?dir=&file=Toby%202023%20WebRip%201080p%20Hindi%20Kannada%20DD%205.1%20x264%20ESub%20-%20mkvCinemas.mkv
 
+#EXTINF:7,group-title="Hindi Dubbed Movies",tvg-logo="http://data105.mazedanetworks.net/ftpdata/Movies/Bluray-2024/index.php?dir=Hindi%20Movie/Hanuman%20%282024%29%20%5B1080p%5D/&file=Hanuman%20%282024%29%20%5B1080p%5D.jpg", Hanuman (2024)
+http://data105.mazedanetworks.net/ftpdata/Movies/Bluray-2024/index.php?dir=Hindi%20Movie/Hanuman%20%282024%29%20%5B1080p%5D/&file=Hanuman%20%282024%29%20%5B1080p%5D.mkv
+
+#EXTINF:8,group-title="Hindi Dubbed Movies",tvg-logo="http://data105.mazedanetworks.net/ftpdata/4k_Movies/index.php?dir=Baahubali%20%282015%29%20%5B4K%5D%20%5B2160p%5D/&file=Baahubali%20%282015%29%20%5B4K%5D%20%5B2160p%5D.jpg",Baahubali: The Beginning (2015)
+http://data105.mazedanetworks.net/ftpdata/4k_Movies/index.php?dir=Baahubali%20%282015%29%20%5B4K%5D%20%5B2160p%5D/&file=Baahubali%20%282015%29%20%5B4K%5D%20%5B2160p%5D.mkv
+
+#EXTINF:9,group-title="Hindi Dubbed Movies",tvg-logo="http://data105.mazedanetworks.net/ftpdata/4k_Movies/index.php?dir=Baahubali%202%20The%20Conclusion%20%282017%29%20%5B4K%5D%20%5B2160p%5D/&file=Baahubali%202%20The%20Conclusion%20%282017%29%20%5B4K%5D%20%5B2160p%5D.jpg", Baahubali 2: The Conclusion (2017)
+http://data105.mazedanetworks.net/ftpdata/4k_Movies/index.php?dir=Baahubali%202%20The%20Conclusion%20%282017%29%20%5B4K%5D%20%5B2160p%5D/&file=Baahubali%202%20The%20Conclusion%20%282017%29%20%5B4K%5D%20%5B2160p%5D.mkv
+
+
 
 
 
