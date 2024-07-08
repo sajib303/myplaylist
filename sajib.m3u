@@ -11,7 +11,7 @@ http://172.22.22.102/s1d4/index.php?dir=Hindi%20Movies/Kho.Gaye.Hum.Kahan.2023.1
 #EXTINF:4,group-title="Hindi Movies",tvg-logo="http://172.22.22.102/s1d4/index.php?dir=Hindi%20Movies/Salaar.Part.1.Ceasefire.2023.Hindi.1080p.WEB-DL.DDP5.1.H.264-Telly/&file=l.jpg",Salaar-Part 1 Ceasefire (2023)
 http://172.22.22.102/s1d4/index.php?dir=Hindi%20Movies/Salaar.Part.1.Ceasefire.2023.Hindi.1080p.WEB-DL.DDP5.1.H.264-Telly/&file=Salaar.Part.1.Ceasefire.2023.Hindi.1080p.WEB-DL.DDP5.1.H.264-Telly.mkv
 
-#EXTINF:1,group-title="Hindi Movies",tvg-logo="http://172.22.22.102/s1d4/index.php?dir=Hindi%20Movies/Laapataa.Ladies.2023.1080p.NF.WEB-DL.DDP5.1.H.264-Telly/&file=k.jpg", Laapataa Ladies (2023)
+#EXTINF:5,group-title="Hindi Movies",tvg-logo="http://172.22.22.102/s1d4/index.php?dir=Hindi%20Movies/Laapataa.Ladies.2023.1080p.NF.WEB-DL.DDP5.1.H.264-Telly/&file=k.jpg", Laapataa Ladies (2023)
 http://172.22.22.102/s1d4/index.php?dir=Hindi%20Movies/Laapataa.Ladies.2023.1080p.NF.WEB-DL.DDP5.1.H.264-Telly/&file=Laapataa.Ladies.2023.1080p.NF.WEB-DL.DDP5.1.H.264-Telly.mkv
 
 
@@ -35,11 +35,11 @@ http://data105.mazedanetworks.net/ftpdata/Dual_Audio_Movies/index.php?dir=&file=
 #EXTINF:6,group-title="Hindi Dubbed Movies",tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f2/TobyFilm.jpeg", Toby (2023)
 http://data105.mazedanetworks.net/ftpdata/Dual_Audio_Movies/index.php?dir=&file=Toby%202023%20WebRip%201080p%20Hindi%20Kannada%20DD%205.1%20x264%20ESub%20-%20mkvCinemas.mkv
 
-#EXTINF:6,group-title="Hindi Dubbed Movies",tvg-logo="http://data105.mazedanetworks.net/ftpdata/4k_Movies/index.php?dir=Baahubali%20%282015%29%20%5B4K%5D%20%5B2160p%5D/&file=Baahubali%20%282015%29%20%5B4K%5D%20%5B2160p%5D.jpg", Baahubali: The Beginning 4k (2015)
+#EXTINF:7,group-title="Hindi Dubbed Movies",tvg-logo="http://data105.mazedanetworks.net/ftpdata/4k_Movies/index.php?dir=Baahubali%20%282015%29%20%5B4K%5D%20%5B2160p%5D/&file=Baahubali%20%282015%29%20%5B4K%5D%20%5B2160p%5D.jpg", Baahubali: The Beginning 4k (2015)
 
 http://data105.mazedanetworks.net/ftpdata/4k_Movies/index.php?dir=Baahubali%20%282015%29%20%5B4K%5D%20%5B2160p%5D/&file=Baahubali%20%282015%29%20%5B4K%5D%20%5B2160p%5D.mkv
 
-#EXTINF:7,group-title="Hindi Dubbed Movies",tvg-logo="http://data105.mazedanetworks.net/ftpdata/Movies/Bluray-2024/index.php?dir=Hindi%20Movie/Hanuman%20%282024%29%20%5B1080p%5D/&file=Hanuman%20%282024%29%20%5B1080p%5D.jpg", Hanuman (2024)
+#EXTINF:8,group-title="Hindi Dubbed Movies",tvg-logo="http://data105.mazedanetworks.net/ftpdata/Movies/Bluray-2024/index.php?dir=Hindi%20Movie/Hanuman%20%282024%29%20%5B1080p%5D/&file=Hanuman%20%282024%29%20%5B1080p%5D.jpg", Hanuman (2024)
 
 http://data105.mazedanetworks.net/ftpdata/Movies/Bluray-2024/index.php?dir=Hindi%20Movie/Hanuman%20%282024%29%20%5B1080p%5D/&file=Hanuman%20%282024%29%20%5B1080p%5D.mkv
 
