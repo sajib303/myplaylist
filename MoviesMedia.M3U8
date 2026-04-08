@@ -1,14 +1,20 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="ne-zha-2" tvg-name="Ne Zha 2 (2025)" tvg-logo="http://example.com/logos/nezha2.png" group-title="Animation",
+# ===== Movies =====
+#EXTINF:-1 tvg-id="nezha2" tvg-name="Ne Zha 2 (2025)" tvg-logo="http://example.com/logos/nezha2.png" group-title="Movies",
 Ne Zha 2 (2025)
 http://10.20.30.40/Data/MOVIES/ANIMATION/2025/Ne%20Zha%202%20(2025)/Ne.Zha.2.2025.1080p.AMZN.WEB-DL.DUAL.DDP5.1.Atmos.H.264-BYNDR.mkv
 
-#EXTINF:-1 tvg-id="action-movie" tvg-name="Action Movie Channel" tvg-logo="http://example.com/logos/action.png" group-title="Action",
-Action Movie Channel
+#EXTINF:-1 tvg-id="action2023" tvg-name="Action Movie (2023)" tvg-logo="http://example.com/logos/action.png" group-title="Movies",
+Action Movie (2023)
 http://10.20.30.40/Data/MOVIES/ACTION/2023/Action.Movie.2023.mkv
 
-#EXTINF:-1 tvg-id="drama-movie" tvg-name="Drama Movie Channel" tvg-logo="http://example.com/logos/drama.png" group-title="Drama",
-Drama Movie Channel
-http://10.20.30.40/Data/MOVIES/DRAMA/2022/Drama.Movie.2022.mkv
+# ===== TV Series =====
+#EXTINF:-1 tvg-id="series1" tvg-name="My Series S01E01" tvg-logo="http://example.com/logos/series.png" group-title="TV Series",
+My Series S01E01
+http://10.20.30.40/Data/SERIES/MySeries/S01E01.mkv
+
+#EXTINF:-1 tvg-id="series1e2" tvg-name="My Series S01E02" tvg-logo="http://example.com/logos/series.png" group-title="TV Series",
+My Series S01E02
+http://10.20.30.40/Data/SERIES/MySeries/S01E02.mkv
 
