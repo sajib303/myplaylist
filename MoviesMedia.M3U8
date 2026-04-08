@@ -1,20 +1,62 @@
 #EXTM3U
 
-# ===== Movies =====
-#EXTINF:-1 tvg-id="nezha2" tvg-name="Ne Zha 2 (2025)" tvg-logo="http://example.com/logos/nezha2.png" group-title="Movies",
+# ===== Movies: English =====
+#EXTINF:-1 tvg-id="nezha2" tvg-name="Ne Zha 2 (2025)" tvg-logo="http://example.com/logos/nezha2.png" group-title="Movies - English",
 Ne Zha 2 (2025)
 http://10.20.30.40/Data/MOVIES/ANIMATION/2025/Ne%20Zha%202%20(2025)/Ne.Zha.2.2025.1080p.AMZN.WEB-DL.DUAL.DDP5.1.Atmos.H.264-BYNDR.mkv
 
-#EXTINF:-1 tvg-id="action2023" tvg-name="Action Movie (2023)" tvg-logo="http://example.com/logos/action.png" group-title="Movies",
+#EXTINF:-1 tvg-id="action2023" tvg-name="Action Movie (2023)" tvg-logo="http://example.com/logos/action.png" group-title="Movies - English",
 Action Movie (2023)
 http://10.20.30.40/Data/MOVIES/ACTION/2023/Action.Movie.2023.mkv
 
-# ===== TV Series =====
-#EXTINF:-1 tvg-id="series1" tvg-name="My Series S01E01" tvg-logo="http://example.com/logos/series.png" group-title="TV Series",
+#EXTINF:-1 tvg-id="thriller2021" tvg-name="Thriller Movie (2021)" tvg-logo="http://example.com/logos/thriller.png" group-title="Movies - English",
+Thriller Movie (2021)
+http://10.20.30.40/Data/MOVIES/THRILLER/2021/Thriller.Movie.2021.mkv
+
+# ===== Movies: Hindi =====
+#EXTINF:-1 tvg-id="bollywood2024" tvg-name="Bollywood Hit (2024)" tvg-logo="http://example.com/logos/bollywood.png" group-title="Movies - Hindi",
+Bollywood Hit (2024)
+http://10.20.30.40/Data/MOVIES/HINDI/2024/Bollywood.Hit.2024.mkv
+
+#EXTINF:-1 tvg-id="classic2022" tvg-name="Hindi Classic (2022)" tvg-logo="http://example.com/logos/classic.png" group-title="Movies - Hindi",
+Hindi Classic (2022)
+http://10.20.30.40/Data/MOVIES/HINDI/2022/Hindi.Classic.2022.mkv
+
+# ===== Movies: Chinese =====
+#EXTINF:-1 tvg-id="chinese2022" tvg-name="Chinese Drama (2022)" tvg-logo="http://example.com/logos/chinese.png" group-title="Movies - Chinese",
+Chinese Drama (2022)
+http://10.20.30.40/Data/MOVIES/CHINESE/2022/Chinese.Drama.2022.mkv
+
+#EXTINF:-1 tvg-id="kungfu2023" tvg-name="Kung Fu Legend (2023)" tvg-logo="http://example.com/logos/kungfu.png" group-title="Movies - Chinese",
+Kung Fu Legend (2023)
+http://10.20.30.40/Data/MOVIES/CHINESE/2023/KungFu.Legend.2023.mkv
+
+# ===== TV Series: My Series =====
+# Season 1
+#EXTINF:-1 tvg-id="myseries-s01e01" tvg-name="My Series S01E01" tvg-logo="http://example.com/logos/myseries.png" group-title="TV Series - My Series - Season 1",
 My Series S01E01
 http://10.20.30.40/Data/SERIES/MySeries/S01E01.mkv
 
-#EXTINF:-1 tvg-id="series1e2" tvg-name="My Series S01E02" tvg-logo="http://example.com/logos/series.png" group-title="TV Series",
+#EXTINF:-1 tvg-id="myseries-s01e02" tvg-name="My Series S01E02" tvg-logo="http://example.com/logos/myseries.png" group-title="TV Series - My Series - Season 1",
 My Series S01E02
 http://10.20.30.40/Data/SERIES/MySeries/S01E02.mkv
+
+# Season 2
+#EXTINF:-1 tvg-id="myseries-s02e01" tvg-name="My Series S02E01" tvg-logo="http://example.com/logos/myseries.png" group-title="TV Series - My Series - Season 2",
+My Series S02E01
+http://10.20.30.40/Data/SERIES/MySeries/S02E01.mkv
+
+#EXTINF:-1 tvg-id="myseries-s02e02" tvg-name="My Series S02E02" tvg-logo="http://example.com/logos/myseries.png" group-title="TV Series - My Series - Season 2",
+My Series S02E02
+http://10.20.30.40/Data/SERIES/MySeries/S02E02.mkv
+
+# ===== TV Series: Another Show =====
+# Season 1
+#EXTINF:-1 tvg-id="anothershow-s01e01" tvg-name="Another Show S01E01" tvg-logo="http://example.com/logos/anothershow.png" group-title="TV Series - Another Show - Season 1",
+Another Show S01E01
+http://10.20.30.40/Data/SERIES/AnotherShow/S01E01.mkv
+
+#EXTINF:-1 tvg-id="anothershow-s01e02" tvg-name="Another Show S01E02" tvg-logo="http://example.com/logos/anothershow.png" group-title="TV Series - Another Show - Season 1",
+Another Show S01E02
+http://10.20.30.40/Data/SERIES/AnotherShow/S01E02.mkv
 
